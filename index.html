@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Student Task Manager</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar">
+    <h2>TaskFlow</h2>
+    <button id="themeToggle">🌙</button>
+  </nav>
+
+  <!-- MAIN SECTION -->
+  <main class="main">
+    <section class="hero">
+      <h1>Manage Your Daily Tasks</h1>
+      <p>Simple, clean and powerful task manager for students</p>
+    </section>
+
+    <section class="task-card">
+      <div class="input-box">
+        <input type="text" id="taskInput" placeholder="What is your next task?" />
+        <button onclick="addTask()">Add Task</button>
+      </div>
+
+      <ul id="taskList"></ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 TaskFlow | Built with HTML, CSS & JavaScript</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
