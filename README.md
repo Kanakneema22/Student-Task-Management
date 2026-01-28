@@ -34,7 +34,15 @@ student-task-manager/
 ├── script.js
 
 ## Images :-
+Screenshot1.png
+Screenshot2.png
+Screenshot3.png
 
+
+
+
+
+ 
 
 
 
