@@ -8,7 +8,7 @@ Live Demo:- https://student-task-management-amber.vercel.app/
 ---
 ## Images
 
-![image alt] (https://github.com/Kanakneema22/Student-Task-Management/blob/f229ec39ebcb1e155b48ad37048ba5c28f4eb392/assets/Screenshot%202026-01-28%20115736.png)
+![image alt](https://github.com/Kanakneema22/Student-Task-Management/blob/f229ec39ebcb1e155b48ad37048ba5c28f4eb392/assets/Screenshot%202026-01-28%20115736.png)
 
 
 
