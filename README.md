@@ -3,6 +3,8 @@
 A simple, clean, and responsive task management website built using HTML, CSS, and JavaScript.  
 This application helps students manage their daily tasks efficiently.
 
+Live Demo:- https://student-task-management-amber.vercel.app/
+
 ---
 
 ## Features
@@ -32,11 +34,6 @@ student-task-manager/
 ├── index.html
 ├── style.css
 ├── script.js
-
-## Images :-
-Screenshot1.png
-Screenshot2.png
-Screenshot3.png
 
 
 
